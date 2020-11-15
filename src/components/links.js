@@ -33,7 +33,7 @@ export default function Links() {
       </li>
       <li className="list-group-item">
         <a
-          href="https://linkedin.com/dileepcheepurupalli"
+          href="https://linkedin.com/in/dileepcheepurupalli"
           target="_blank"
           rel="noreferrer"
           alt="linkedin link"
