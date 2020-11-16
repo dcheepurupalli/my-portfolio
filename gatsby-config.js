@@ -25,13 +25,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `SiteName`,
-        short_name: `SiteName`,
+        name: `Dileep Cheepurupalli`,
+        short_name: `dcheepurupalli`,
         start_url: `/`,
-        background_color: `#1b1c1e`,
+        background_color: `#000000`,
         theme_color: `#1b1c1e`,
         display: `minimal-ui`,
-        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
+        icon: `static/favicon.ico`, // This path is relative to the root of the site.
       },
     },
     `gatsby-transformer-json`,
